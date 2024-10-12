@@ -11,4 +11,7 @@ console.log("hello git") ;
 //git push --set-upstream origin feature-branch  //push only one specific branch 
 
 //text added by main2 branch
+console.log("hello guys misty6") ; 
+console.log("hello misty6") ; 
+console.log("misty6") ; 
 
