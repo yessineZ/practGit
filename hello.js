@@ -1,4 +1,5 @@
 console.log("hello misty69") ; 
+console.log("hello brother misty69") ;
 //hello brother
 // git checkout idofCommit
 //git checkout main //to go back to the last commit
