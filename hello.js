@@ -10,5 +10,5 @@ console.log("hello git") ;
 //git branch new-branch-name underthetargetbranch-name   //  main  ------> branch1 
 //git push --set-upstream origin feature-branch  //push only one specific branch 
 
-
+//text added by main2 branch
 
