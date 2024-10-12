@@ -1,4 +1,7 @@
 console.log("hello git") ; 
+console.log("hello from main1") ; 
+console.log("hello form main1") ; 
+console.log("hello ss form main1") ; 
 //hello brother
 // git checkout idofCommit
 //git checkout main //to go back to the last commit
@@ -11,4 +14,6 @@ console.log("hello git") ;
 //git push --set-upstream origin feature-branch  //push only one specific branch 
 
 //text added by main2 branch
+
+
 
